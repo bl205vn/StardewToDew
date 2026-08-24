@@ -47,7 +47,7 @@
     "overlay.header": "Danh sách To-Dew",
 
     // Console log messages
-    "message.install-gmcm-options": "Bạn đã cài đặt mod Generic Mod Menu Config, nhưng chưa cài GMCM Options. Nếu bạn cài GMCM Options (https://www.nexusmods.com/stardewvalley/mods/10505), bạn có thể chỉnh màu lớp phủ từ trong menu cấu hình của mod {{modName}}.",
+    "message.install-gmcm-options": "Bạn đã cài đặt mod Generic Mod Config Menu, nhưng chưa cài GMCM Options. Nếu bạn cài GMCM Options (https://www.nexusmods.com/stardewvalley/mods/10505), bạn có thể chỉnh màu lớp phủ từ trong menu cấu hình của mod {{modName}}.",
     "message.save-version-newer": "Thông tin danh sách trong bản lưu này ở định dạng phiên bản mới hơn là ({{saveFormatVersion}}) so với phiên bản mà mod {{modName}} này đang sử dụng là ({{modFormatVersion}}). Bản lưu tiếp theo sẽ sử dụng phiên bản cũ hơn, điều này sẽ làm mất vài thuộc tính được thêm vào trong phiên bản mới hơn đó.",
     "message.save-version-older": "Đã đọc thông tin danh sách ở định dạng phiên bản {{saveFormatVersion}}. Sẽ được cập nhật lên định dạng phiên bản hiện tại là ({{modFormatVersion}}) vào lần lưu tiếp theo.",
     "message.host-no-mod": "Máy chủ không cài đặt mod {{modName}}; danh sách hiện vô hiệu hóa.",
