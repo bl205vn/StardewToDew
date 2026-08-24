@@ -19,7 +19,7 @@
     "config.overlay.click-to-mark-done": "Nhấp để đánh dấu hoàn thành",
     "config.overlay.click-to-mark-done.desc": "Khi bật, bạn có thể nhấp vào các mục trên lớp phủ để đánh dấu các mục đã hoàn thành",
     "config.overlay.hide-header-with-no-children": "Ẩn tiêu đề trống",
-    "config.overlay.hide-header-with-no-children.desc": "Ẩn tiêu đề nếu không có mục con nào bên dưới",
+    "config.overlay.hide-header-with-no-children.desc": "Ẩn tiêu đề nếu mục kế cũng là tiêu đề",
     "config.overlay.hotkey": "Phím tắt ẩn/hiện",
     "config.overlay.hotkey.desc": "Phím tắt để hiển thị hoặc ẩn lớp phủ",
     "config.overlay.hide-at-festivals": "Ẩn trong lễ hội",
@@ -33,7 +33,7 @@
     "config.overlay.background-color": "Màu nền",
     "config.overlay.background-color.desc": "Màu nền của lớp phủ",
     "config.overlay.text-color": "Màu chữ",
-    "config.overlay.text-color.desc": "Màu của chữ của lớp phủ",
+    "config.overlay.text-color.desc": "Màu chữ của lớp phủ",
     "config.overlay.zoom": "Tỉ lệ thu phóng",
     "config.overlay.zoom.desc": "Chọn tùy chọn thu phóng của game để điều chỉnh kích thước lớp phủ",
     "config.overlay.x-offset": "Độ lệch trục X",
@@ -44,22 +44,22 @@
     "config.overlay.large-font.desc": "Sử dụng cỡ chữ lớn",
 
     // Overlay
-    "overlay.header": "Danh sách việc cần làm",
+    "overlay.header": "Danh sách To-Dew",
 
     // Console log messages
     "message.install-gmcm-options": "Bạn đã cài đặt mod Generic Mod Menu Config, nhưng chưa cài GMCM Options. Nếu bạn cài GMCM Options (https://www.nexusmods.com/stardewvalley/mods/10505), bạn có thể chỉnh màu lớp phủ từ trong menu cấu hình của mod {{modName}}.",
-    "message.save-version-newer": "Thông tin danh sách trong bản lưu này ở định dạng phiên bản mới hơn là ({{saveFormatVersion}}) so với phiên bản mà mod {{modName}} này đang sử dụng là ({{modFormatVersion}}). Bản lưu tiếp theo sẽ sử dụng phiên bản cũ hơn, điều này sẽ dẫn đến mất vài thuộc tính được thêm vào trong phiên bản mới hơn đó.",
+    "message.save-version-newer": "Thông tin danh sách trong bản lưu này ở định dạng phiên bản mới hơn là ({{saveFormatVersion}}) so với phiên bản mà mod {{modName}} này đang sử dụng là ({{modFormatVersion}}). Bản lưu tiếp theo sẽ sử dụng phiên bản cũ hơn, điều này sẽ làm mất vài thuộc tính được thêm vào trong phiên bản mới hơn đó.",
     "message.save-version-older": "Đã đọc thông tin danh sách ở định dạng phiên bản {{saveFormatVersion}}. Sẽ được cập nhật lên định dạng phiên bản hiện tại là ({{modFormatVersion}}) vào lần lưu tiếp theo.",
     "message.host-no-mod": "Máy chủ không cài đặt mod {{modName}}; danh sách hiện vô hiệu hóa.",
-    "message.host-different-mod-version": "Máy chủ dùng phiên bản {{hostVersion}} của mod {{modName}} nhưng bạn dùng bản {{myVersion}}. Dù vậy vẫn tiếp tục hoạt động.",
+    "message.host-different-mod-version": "Máy chủ dùng phiên bản {{hostVersion}} của mod {{modName}} nhưng bạn dùng bản {{myVersion}}. Dù vậy vẫn cố chạy, không chắc ổn.",
     "message.ignoring-unexpected-message-type": "Đang bỏ qua loại tin nhắn không mong muốn {{messageType}} từ người chơi {{fromId}} ({{fromName}})",
     "message.host-newer-data-format-minor": "Máy chủ dùng định dạng dữ liệu bản mới hơn ({{hostVersion}}) so với bản mod {{modName}} này là ({{myVersion}}), nhưng chúng tôi sẽ cố gắng hết sức để xử lý.",
-    "message.host-newer-data-format-major": "Máy chủ dùng định dạng dữ liệu bản mới hơn ({{hostVersion}}) so với bản mod {{modName}} này là ({{myVersion}}). Do tách biệt quá lớn, chúng tôi sẽ không xử lý.",
+    "message.host-newer-data-format-major": "Máy chủ dùng định dạng dữ liệu bản mới hơn ({{hostVersion}}) so với bản mod {{modName}} này là ({{myVersion}}). Do khác biệt phiên bản, chúng tôi sẽ không xử lý.",
     "message.host-older-data-format": "Máy chủ dùng định dạng dữ liệu phiên bản {{hostVersion}}, cũ hơn phiên bản hiện tại của bạn là ({{myVersion}}). Một số tính năng có thể không hoạt động.",
     "message.current-item-deleted": "Mục {{itemId}} đã bị người khác xoá.",
 
     // list menu
-    "menu.list.title-bold-part": "Danh sách cần làm",
+    "menu.list.title-bold-part": "Danh sách To-Dew",
     "menu.list.title-rest": "cho nông trại {{farmName}}",
     "menu.textbox.title": "Thêm mục cần làm", // not sure the TitleText actually shows up anywhere
     // item configuration (edit) menu
