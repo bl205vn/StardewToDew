@@ -54,7 +54,7 @@
     "message.host-different-mod-version": "Máy chủ dùng phiên bản {{hostVersion}} của mod {{modName}} nhưng bạn dùng bản {{myVersion}}. Dù vậy vẫn cố chạy, không chắc ổn.",
     "message.ignoring-unexpected-message-type": "Đang bỏ qua loại tin nhắn không mong muốn {{messageType}} từ người chơi {{fromId}} ({{fromName}})",
     "message.host-newer-data-format-minor": "Máy chủ dùng định dạng dữ liệu bản mới hơn ({{hostVersion}}) so với bản mod {{modName}} này là ({{myVersion}}), nhưng chúng tôi sẽ cố gắng hết sức để xử lý.",
-    "message.host-newer-data-format-major": "Máy chủ dùng định dạng dữ liệu bản mới hơn ({{hostVersion}}) so với bản mod {{modName}} này là ({{myVersion}}). Do khác biệt phiên bản, chúng tôi sẽ không xử lý.",
+    "message.host-newer-data-format-major": "Máy chủ dùng định dạng dữ liệu bản mới hơn ({{hostVersion}}) so với bản mod {{modName}} này là ({{myVersion}}). Do khác biệt phiên bản chính, chúng tôi sẽ không xử lý.",
     "message.host-older-data-format": "Máy chủ dùng định dạng dữ liệu phiên bản {{hostVersion}}, cũ hơn phiên bản hiện tại của bạn là ({{myVersion}}). Một số tính năng có thể không hoạt động.",
     "message.current-item-deleted": "Mục {{itemId}} đã bị người khác xoá.",
 
